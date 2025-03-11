@@ -11,10 +11,16 @@
   },
   "dependencies": {
     "@next/env": "^15.2.1",
-    "next": "15.2.1",
+    "@opentelemetry/api": "^1.9.0",
+    "@react-three/fiber": "^9.1.0",
+    "@types/three": "^0.174.0",
+    "@vercel/otel": "^1.10.3",
+    "babel-plugin-react-compiler": "^19.0.0-beta-bafa41b-20250307",
+    "next": "^15.2.2-canary.6",
     "prettier": "^3.5.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "three": "^0.174.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
